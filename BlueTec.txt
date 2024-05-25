@@ -1,0 +1,8 @@
+title:BlueTec
+description:Destiny Wishlist
+
+// Hammerhead - Hammerhead (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1896309757&perks=3250034553,1968497646,3425386926,95528736,2489430594
+
+
