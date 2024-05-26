@@ -1,11 +1,3 @@
-title:BlueTec
-description:Destiny Wishlist
-
-// Hammerhead - Hammerhead (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=1896309757&perks=3250034553,1968497646,3425386926,95528736
-
-
-// Firefright - Firefright TEST (pve)
-//notes: tags:pve
-dimwishlist:item=2778013407&perks=839105230,1561002382,1609056795,2896038713
+title:BlueTec Wishlist
+description:This is a BlueTec Wishlist
+dimwishlist:item=2778013407&perks=839105230,1561002382,2451262963,2896038713#notes:pve
