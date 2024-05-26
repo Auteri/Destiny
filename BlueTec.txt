@@ -6,3 +6,6 @@ description:Destiny Wishlist
 dimwishlist:item=1896309757&perks=3250034553,1968497646,3425386926,95528736,2489430594
 
 
+// Firefright - Firefright TEST (pve)
+//notes: tags:pve
+dimwishlist:item=2778013407&perks=839105230,1561002382,1609056795,2896038713,1250481499
