@@ -1,3 +1,4 @@
 title:BlueTec Wishlist
 description:This is a BlueTec Wishlist
 dimwishlist:item=2778013407&perks=839105230,1561002382,2451262963,2896038713#notes:pve
+dimwishlist:item=1801007332&perks=839105230,3230963543,1906147653,2675184851#notes:RestAssured
